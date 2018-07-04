@@ -10,22 +10,23 @@
             margin: 0;
         }
         h1, h2{
-            font-size:10vw;
+
         }
         h3 {
-            font-size:8vw;
+
         }
         h4 {
-            font-size: 7vw;
+
         }
         h5 {
-            font-size:6vw;
+
         }
         h6{
-            font-size:5vw;
+
         }
         li {
-            font-size:7vw;
+            list-style-type: none;
+
         }
         .x{
             display: flex;
@@ -75,6 +76,19 @@
             /*width: 200px;*/
             /*height: 150px;*/
         }
+        .brief {
+            border-radius: 25px;
+            background: #00AB9B;
+            margin-bottom: 20px;
+            padding: 20px;
+            color: #FFFFFF;
+            /*width: 200px;*/
+            /*height: 150px;*/
+        }
+        .imgBtn {
+            width: 100%;
+            height: auto;
+        }
     </style>
 </head>
 <body>
@@ -83,15 +97,15 @@
     <div class='x' onclick="nextStep(1)">
         <div class="content">
             <div class="question1">
-            <h1>Clinical suspicion of infection ?</h1>
+            <h4>Clinical suspicion of infection ?</h4>
             </div>
             <div>
                 <h2>YES<br>&#x21E9;</h2>
             </div>
             <div class="question2">
-                <h3>Sepsis Screen Required</h3>
-                <h3>identify which of the following 4 groups the patient
-                belongs to and assign appropriate triage category</h3>
+                <p>Sepsis Screen Required</p>
+                <p>identify which of the following 4 groups the patient
+                belongs to and assign appropriate triage category</p>
             </div>
         </div>
     </div>
@@ -163,16 +177,37 @@
             <ul>
                 <li>RR &#8805; 20</li>
                 <li>HR > 90</li>
-                <li>T > 38.3<sup>0</sup>C or < 36<sup>0</sup>C</li>
+                <li>T > 38.3<sup>o</sup>C or < 36<sup>o</sup>C</li>
                 <li>BSL > 7.7 mmol/l (in non-diabetic patient)</li>
             </ul>
+        </div>
+        <div class="cat3">
             <h3>No co-morbidity</h3>
             <h3>These patients may require re-triage and sepsis screening if they deteriorate prior to medical review or if lactate >2</h3>
         </div>
-        <div class="cat2">
+        <div class="cat3">
             <h1>Category 3</h1>
         </div>
     </div>
+<!--show brief of category -->
+    <div class="x" onclick="nextStep(1)">
+        <div class="brief">
+                <p>At risk of of, neutropenia, e.g. on chemotherapy/ radiotherapy</p>
+                <p style="color: red">Start Sepsis Form</p>
+        </div>
+        <div class="brief">
+                <p>Clinical evidence of <strong>new onset</strong> single organ dysfunction</p>
+                <p style="color: red">Start Sepsis Form</p>
+        </div>
+        <div class="brief">
+            <p>Co-morbidites PLUS &#8805;2 modified SIRS</p>
+            <p style="color: red">Start Sepsis Form</p>
+        </div>
+        <a href="index.html" ><img class="imgBtn" src="./images/SEPSIS-LOGO%20NEGATIVE%20BANNER.jpg"> </a>
+        <a href="forms.html" ><img  class="imgBtn" src="./images/SEPSIS-LOGO%20POSITIVE%20BANNER.jpg"> </a>
+
+    </div>
+
 </body>
 <script>
     let divIndex = 1;
