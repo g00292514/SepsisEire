@@ -214,12 +214,18 @@ a {
     .main-content-doc a{
         /*border: 1px solid black;*/
         text-decoration: none;
-        padding: 15px;
+        padding: 10px 15px;
         background-color: #717171;
         border-radius: 25px;
         color: #FFFFFF;
         margin: 30px;
-        font-size: 150%;
+        font-size: 100%;
+    }
+    main-content-doc h1{
+        font-size: 200%;
+        padding-top: 80px;
+        color: #FFFFFF;
+        text-align: center;
     }
     .main-content h1{
         font-size: 205%;
