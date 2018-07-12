@@ -25,6 +25,13 @@ a {
     height: auto;
     float: left;
 }
+.logo-title{
+    float: left;
+    margin-top: 70px;
+    font-size: 350%;
+    margin-bottom: 0;
+    color: #00AB9B;
+}
 .logo-title-ed {
     float: left;
     margin-top: 5%;
@@ -61,13 +68,6 @@ a {
     }
     .header-form {
         height: 70px;
-    }
-    .logo-title{
-        float: left;
-        margin-top: 0;
-        font-size: 350%;
-        margin-bottom: 0;
-        color: #00AB9B;
     }
     .logo-title-form{
         float: left;
