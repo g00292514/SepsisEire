@@ -10,12 +10,6 @@ a {
     margin-right: auto;
     margin-left: auto;
 }
-@media screen and (max-width: 700px) {
-    .container{
-        width: 100%;
-    }
-}
-
 /*header*/
 .header {
     height: 180px;
@@ -53,13 +47,7 @@ a {
     height: auto;
     float: left;
 }
-.logo-title {
-    float: left;
-    margin-top: 11%;
-    font-size: 350%;
-    margin-bottom: 0;
-    color: #00AB9B;
-}
+
 .logo-title-form {
     float: left;
     margin-top: 7%;
@@ -67,7 +55,13 @@ a {
     margin-bottom: 0;
     color: #00AB9B;
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 350px) {
+    .header {
+        height: 120px;
+    }
+    .header-form {
+        height: 70px;
+    }
     .logo-title{
         float: left;
         margin-top: 0;
@@ -78,7 +72,14 @@ a {
     .logo-title-form{
         float: left;
         margin-top: 20px;
-        font-size: 200%;
+        font-size: 170%;
+        margin-bottom: 0;
+        color: #00AB9B;
+    }
+    .logo-title {
+        float: left;
+        margin-top: 0;
+        font-size: 315%;
         margin-bottom: 0;
         color: #00AB9B;
     }
@@ -109,13 +110,19 @@ a {
     color: #FFFFFF;
     text-align: center;
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 350px) {
     .main-content h1{
         font-size: 200%;
         padding-top: 40px;
         color: #FFFFFF;
         text-align: center;
     }
+    .main-content-index{
+        background-color: #00AB9B;
+        height: calc(100vh - 180px);
+        padding: 0 58px;
+    }
+
 }
 .main-content a {
     /*border: 1px solid black;*/
@@ -137,7 +144,7 @@ a {
     margin: 40px;
     font-size: 150%;
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 350px) {
 
     .main-content a{
         /*border: 1px solid black;*/
@@ -147,12 +154,12 @@ a {
         border-radius: 25px;
         color: #FFFFFF;
         margin: 30px;
-        font-size: 100%;
+        font-size: 80%;
     }
     .main-content-doc a{
         /*border: 1px solid black;*/
         text-decoration: none;
-        padding: 20px 15px;
+        padding: 15px;
         background-color: #717171;
         border-radius: 25px;
         color: #FFFFFF;
@@ -179,10 +186,10 @@ a {
     color: #FFFFFF;
     text-align: center;
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 350px) {
     .main-content-doc h1{
         font-size: 200%;
-        padding-top: 40px;
+        padding-top: 10px;
         color: #FFFFFF;
         text-align: center;
     }
@@ -233,13 +240,13 @@ a {
 .dropbtn:hover, .dropbtn:focus {
     background-color: #2980B9;
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 350px) {
     .dropbtn {
         background-color: #717171;
         color: white;
         padding: 16px;
         /*margin-right: 51px;*/
-        margin-top: 33%;
+        margin-top: 40%;
         font-size: 100%;
         border: none;
         cursor: pointer;
