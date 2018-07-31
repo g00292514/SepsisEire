@@ -175,6 +175,22 @@ a {
 
     margin-right: 20px;
 }
+.category_1{
+    background-color: #FFFBB2;
+    text-align: center;
+    border-radius: 25px;
+    border-color: black;
+    font-size: 280%;
+    padding: 12px;
+}
+.category_2{
+    background-color: #F9BEAC;
+    text-align: center;
+    border-radius: 25px;
+    border-color: black;
+    font-size: 280%;
+    padding: 12px;
+}
 .group-id {
     color: white;
     text-align: center;
