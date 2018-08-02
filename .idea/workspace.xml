@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c1a906d-1e2f-4916-9bc3-223694fc3599" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/images/Logo_Sepsis_web.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adult_ed.html" beforeDir="false" afterPath="$PROJECT_DIR$/adult_ed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question.html" beforeDir="false" afterPath="$PROJECT_DIR$/question.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,8 +25,8 @@
       <file leaf-file-name="adult_ed.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/adult_ed.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="136">
+              <caret line="14" column="10" selection-start-line="11" selection-start-column="7" selection-end-line="17" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -28,8 +34,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+            <state relative-caret-position="255">
+              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -37,26 +43,26 @@
       <file leaf-file-name="question.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/question.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="306">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="form.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="110" selection-start-line="27" selection-start-column="110" selection-end-line="27" selection-end-column="110" />
+            <state relative-caret-position="306">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="211" column="17" selection-start-line="211" selection-start-column="17" selection-end-line="211" selection-end-column="17" />
+            <state relative-caret-position="380">
+              <caret line="108" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="108" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -84,11 +90,11 @@
         <option value="$PROJECT_DIR$/forms.html" />
         <option value="$PROJECT_DIR$/ed.html" />
         <option value="$PROJECT_DIR$/index1.html" />
-        <option value="$PROJECT_DIR$/question.html" />
         <option value="$PROJECT_DIR$/adult_ed.html" />
-        <option value="$PROJECT_DIR$/form.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/question.html" />
+        <option value="$PROJECT_DIR$/form.html" />
       </list>
     </option>
   </component>
@@ -139,6 +145,9 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\calse\WebstormProjects\sepsisireland\SepsisEire\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\calse\WebstormProjects\sepsisireland\SepsisEire\images" />
       <recent name="C:\Users\calse\WebstormProjects\sepsisireland\SepsisEire\pdf" />
@@ -182,6 +191,8 @@
       <workItem from="1531561159941" duration="244000" />
       <workItem from="1531743437626" duration="1895000" />
       <workItem from="1532038863961" duration="150000" />
+      <workItem from="1533077634847" duration="536000" />
+      <workItem from="1533198296987" duration="903000" />
     </task>
     <task id="LOCAL-00001" summary="app">
       <created>1530029185728</created>
@@ -295,11 +306,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531744717579</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="typo removed">
+      <created>1533077713000</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1533077713000</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106859000" />
+    <option name="totallyTimeSpent" value="108298000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -312,9 +330,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.103953145" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25744048" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3288889" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3288889" />
@@ -363,7 +380,8 @@
     <MESSAGE value="app" />
     <MESSAGE value="new" />
     <MESSAGE value="full working new version" />
-    <option name="LAST_COMMIT_MESSAGE" value="full working new version" />
+    <MESSAGE value="typo removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="typo removed" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/question.html">
@@ -578,38 +596,38 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.html" />
-    <entry file="file://$PROJECT_DIR$/form.html">
+    <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="110" selection-start-line="27" selection-start-column="110" selection-end-line="27" selection-end-column="110" />
+        <state relative-caret-position="380">
+          <caret line="108" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="108" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/adult_ed.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="136">
+          <caret line="14" column="10" selection-start-line="11" selection-start-column="7" selection-end-line="17" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        <state relative-caret-position="255">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/question.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="306">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="211" column="17" selection-start-line="211" selection-start-column="17" selection-end-line="211" selection-end-column="17" />
+        <state relative-caret-position="306">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
         </state>
       </provider>
     </entry>
