@@ -149,6 +149,12 @@ a {
     color: #FFFFFF;
     text-align: center;
 }
+.main-content-q2 h1{
+    font-size: 250%;
+    padding-top: 80px;
+    color: #FFFFFF;
+    text-align: center;
+}
 .main-content a {
     /*border: 1px solid black;*/
     text-decoration: none;
@@ -289,6 +295,13 @@ a {
         height: calc(100vh - 180px);
         padding: 0 58px;
     }
+}
+.maternity_group{
+    background: #FFF;
+    color: #000;
+    border-radius: 25px;
+    padding: 2px 12px;
+    font-size: 190%;
 }
 /*article end*/
 
