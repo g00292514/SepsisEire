@@ -1,9 +1,11 @@
 html {
     font-family: "Times New Roman", Times, serif;
     font-size: 15px;
+    height: 100%;
 }
 body {
     margin: 0;
+    height: 100%;
 }
 a {
     text-decoration: none;
@@ -12,110 +14,18 @@ a {
     max-width: 600px;
     margin-right: auto;
     margin-left: auto;
+    height: 100%;
+    background-color: #00AB9B;
 }
 /*header*/
-/*.header {*/
-    /*height: 180px;*/
-/*}*/
-/*.header-form {*/
-    /*height: 132px;*/
-/*}*/
-/*.header-ed {*/
-    /*height: 100px;*/
-/*}*/
-/*.logo-img-ed {*/
-    /*width: 20%;*/
-    /*height: auto;*/
-    /*float: left;*/
-/*}*/
-/*.logo-title{*/
-    /*float: left;*/
-    /*margin-top: 70px;*/
-    /*font-size: 350%;*/
-    /*margin-bottom: 0;*/
-    /*color: #00AB9B;*/
-/*}*/
-/*.logo-title-ed {*/
-    /*float: left;*/
-    /*margin-top: 5%;*/
-    /*font-size: 215%;*/
-    /*margin-bottom: 0;*/
-    /*color: #00AB9B;*/
-/*}*/
-/*.logo-img {*/
-    /*width: 33%;*/
-    /*height: auto;*/
-    /*float: left;*/
-/*}*/
-/*.logo-img-form {*/
-    /*width: 27%;*/
-    /*height: auto;*/
-    /*float: left;*/
-/*}*/
-/*.logo-img-index {*/
-    /*width: 25%;*/
-    /*height: auto;*/
-    /*float: left;*/
-/*}*/
-/*.logo-title-index {*/
-    /*float: left;*/
-    /*margin-top: 5%;*/
-    /*font-size: 215%;*/
-    /*margin-bottom: 0;*/
-    /*color: #00AB9B;*/
-/*}*/
 
-/*.logo-title-form {*/
-    /*float: left;*/
-    /*margin-top: 7%;*/
-    /*font-size: 350%;*/
-    /*margin-bottom: 0;*/
-    /*color: #00AB9B;*/
-/*}*/
-/*@media screen and (max-width: 410px) {*/
-    /*.header {*/
-        /*height: 120px;*/
-    /*}*/
-    /*.header-form {*/
-        /*height: 70px;*/
-    /*}*/
-    /*.logo-img-ed {*/
-        /*width: 25%;*/
-        /*height: auto;*/
-        /*float: left;*/
-    /*}*/
-    /*.logo-title-form{*/
-        /*float: left;*/
-        /*margin-top: 20px;*/
-        /*font-size: 170%;*/
-        /*margin-bottom: 0;*/
-        /*color: #00AB9B;*/
-    /*}*/
-    /*.logo-title-index {*/
-        /*width: 50%;*/
-        /*float: left;*/
-        /*font-size: 9vw;*/
-
-        /*margin-bottom: 0;*/
-        /*color: #00AB9B;*/
-    /*}*/
-    /*.logo-title {*/
-        /*float: left;*/
-        /*margin-top: 0;*/
-        /*font-size: 315%;*/
-        /*margin-bottom: 0;*/
-        /*color: #00AB9B;*/
-    /*}*/
-/*}*/
 /*header end*/
 
 /*article*/
 .main-content{
-    background-color: #00AB9B;
-    height: calc(100vh - 180px);
+    height: 100%;
 }
 .main-content-index{
-    background-color: #00AB9B;
     height: calc(100vh - 180px);
     padding: 0 118px;
 }
@@ -137,18 +47,18 @@ a {
 }
 .main-content-ed{
      background-color: #00AB9B;
-     height: calc(117vh - 180px);
+     height: 100%;
  }
 .main-content-doc{
     background-color: #00AB9B;
     height: calc(100vh - 180px);
 }
-.main-content h1{
-    font-size: 320%;
-    padding-top: 80px;
-    color: #FFFFFF;
-    text-align: center;
-}
+/*.main-content h1{*/
+    /*font-size: 320%;*/
+    /*padding-top: 80px;*/
+    /*color: #FFFFFF;*/
+    /*text-align: center;*/
+/*}*/
 .main-content-q2 h1{
     font-size: 250%;
     padding-top: 80px;
@@ -175,6 +85,12 @@ a {
     margin: 40px;
     font-size: 150%;
 }
+.q_heading{
+    font-size: 250%;
+    padding: 80px 0;
+    color: #FFFFFF;
+    text-align: center;
+}
 .infection-btn{
     text-align: center;
   font-size: 320%;
@@ -184,8 +100,8 @@ a {
 .category_1{
     background-color: #FFFBB2;
     text-align: center;
+    border: #000 solid;
     border-radius: 25px;
-    border-color: black;
     font-size: 280%;
     padding: 12px;
 }
@@ -193,7 +109,7 @@ a {
     background-color: #F9BEAC;
     text-align: center;
     border-radius: 25px;
-    border-color: black;
+    border: #000 solid;
     font-size: 280%;
     padding: 12px;
 }
@@ -201,7 +117,7 @@ a {
     color: white;
     text-align: center;
     font-size: 200%;
-    margin-top: 20px;
+    margin: 5% 10%
 }
 .main-content-doc h1{
     font-size: 250%;
@@ -235,6 +151,35 @@ a {
     font-size: 200%;
     text-decoration: none;
 }
+/*maternity start*/
+.preg_risk_p{
+    margin: 0 10%;
+    padding: 5% 0;
+    color: #fff;
+    text-align: center;
+    font-size: 200%;
+}
+.preg_q_heading{
+    text-align: center;
+    color: #fff;
+    font-size: 254%;
+    margin: 0 10%;
+    padding: 10% 0;
+}
+.preg_risk{
+    border: 3px solid;
+    border-radius: 25px;
+    color: #fff;
+    text-align: center;
+    font-size: 150%;
+    margin: 0 10%;
+    margin-top: 5%;
+}
+.preg_risk_header{
+    border-bottom: 3px solid;
+    padding-bottom: 5%
+}
+/*maternity end*/
 @media screen and (max-width: 410px) {
     .main-content-index h1{
         font-size: 200%;
@@ -277,12 +222,6 @@ a {
         color: #FFFFFF;
         margin: 30px;
         font-size: 100%;
-    }
-    main-content-doc h1{
-        font-size: 200%;
-        padding-top: 80px;
-        color: #FFFFFF;
-        text-align: center;
     }
     .main-content h1{
         font-size: 205%;
