@@ -61,9 +61,10 @@ a {
 /*}*/
 .main-content-q2 h1{
     font-size: 250%;
-    padding-top: 80px;
+    padding: 5% 0;
     color: #FFFFFF;
     text-align: center;
+    margin: 0 10%
 }
 .main-content a {
     /*border: 1px solid black;*/

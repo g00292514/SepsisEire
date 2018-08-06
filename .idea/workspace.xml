@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c1a906d-1e2f-4916-9bc3-223694fc3599" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/adult_in.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form_adult_in.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form_maternity.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/maternity_pg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/maternity_pg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/maternity_pg4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sepsis_maternal_non_related.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sepsis_maternal_related.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/in_patient_question.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maternity.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maternity_question.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maternity_risk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf/Adult In-Patient Sepsis Management Algorithm 2018.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf/Maternal Sepsis 3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf/Maternal Sepsis Management Algorithim GUH[2880].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf/Maternal Sepsis Management Algorithm.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maternity_question.html" beforeDir="false" afterPath="$PROJECT_DIR$/maternity_question.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -34,29 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="adult_ed.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/adult_ed.html">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="111" column="7" selection-end-line="111" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="adult_in.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/adult_in.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/form.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <state relative-caret-position="455">
+              <caret line="66" column="17" lean-forward="true" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -64,38 +30,11 @@
       <file leaf-file-name="maternity_risk.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/maternity_risk.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="maternity.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maternity.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="55" column="43" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="43" />
+            <state relative-caret-position="320">
+              <caret line="39" column="50" lean-forward="true" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
               <folding>
-                <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="form_maternity.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/form_maternity.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="form_adult_in.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/form_adult_in.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -103,26 +42,38 @@
       <file leaf-file-name="question.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/question.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="33" selection-end-column="7" />
+            <state relative-caret-position="357">
+              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="maternity_question.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="maternity.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/maternity.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="23" column="2" lean-forward="true" selection-start-line="23" selection-end-line="72" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="maternity_question.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/maternity_question.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+            <state relative-caret-position="340">
+              <caret line="20" column="100" selection-start-line="20" selection-start-column="100" selection-end-line="20" selection-end-column="100" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style.css">
+      <file leaf-file-name="in_patient_question.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/in_patient_question.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="298" column="17" selection-start-line="298" selection-start-column="17" selection-end-line="298" selection-end-column="17" />
+            <state relative-caret-position="323">
+              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -151,17 +102,17 @@
         <option value="$PROJECT_DIR$/ed.html" />
         <option value="$PROJECT_DIR$/index1.html" />
         <option value="$PROJECT_DIR$/adult_ed.html" />
-        <option value="$PROJECT_DIR$/question.html" />
         <option value="$PROJECT_DIR$/form.html" />
         <option value="$PROJECT_DIR$/adult_in.html" />
         <option value="$PROJECT_DIR$/form_adult_in.html" />
         <option value="$PROJECT_DIR$/in_patient_question.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/maternity.html" />
         <option value="$PROJECT_DIR$/form_maternity.html" />
         <option value="$PROJECT_DIR$/maternity_risk.html" />
+        <option value="$PROJECT_DIR$/question.html" />
         <option value="$PROJECT_DIR$/maternity_question.html" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
@@ -260,7 +211,7 @@
       <workItem from="1531743437626" duration="1895000" />
       <workItem from="1532038863961" duration="150000" />
       <workItem from="1533077634847" duration="536000" />
-      <workItem from="1533198296987" duration="10538000" />
+      <workItem from="1533198296987" duration="17164000" />
     </task>
     <task id="LOCAL-00001" summary="app">
       <created>1530029185728</created>
@@ -388,11 +339,25 @@
       <option name="project" value="LOCAL" />
       <updated>1533199229895</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="added in and maternity">
+      <created>1533212254875</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1533212254875</updated>
+    </task>
+    <task id="LOCAL-00020" summary="cleaning up">
+      <created>1533552749248</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1533552749248</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117933000" />
+    <option name="totallyTimeSpent" value="124559000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -405,6 +370,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25744048" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3288889" />
@@ -457,7 +423,9 @@
     <MESSAGE value="full working new version" />
     <MESSAGE value="typo removed" />
     <MESSAGE value="cleaned up banner" />
-    <option name="LAST_COMMIT_MESSAGE" value="cleaned up banner" />
+    <MESSAGE value="added in and maternity" />
+    <MESSAGE value="cleaning up" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaning up" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/form.html">
@@ -623,35 +591,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.html" />
-    <entry file="file://$PROJECT_DIR$/in_patient_question.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding>
-            <element signature="e#740#744#0" expanded="true" />
-            <element signature="e#751#755#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/question.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="33" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="298" column="17" selection-start-line="298" selection-start-column="17" selection-end-line="298" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -690,27 +633,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maternity_risk.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/maternity.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="55" column="43" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="43" />
+        <state relative-caret-position="136">
+          <caret line="23" column="2" lean-forward="true" selection-start-line="23" selection-end-line="72" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/maternity_risk.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="39" column="50" lean-forward="true" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/question.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/maternity_question.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        <state relative-caret-position="340">
+          <caret line="20" column="100" selection-start-line="20" selection-start-column="100" selection-end-line="20" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in_patient_question.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="66" column="17" lean-forward="true" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
         </state>
       </provider>
     </entry>
