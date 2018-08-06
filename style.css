@@ -153,7 +153,11 @@ a {
     text-decoration: none;
 }
 /*maternity start*/
+ul{
+    padding: 0;
+}
 ul li {
+    list-style: none;
     padding: 5px 0;
 }
 .preg_risk_p{
