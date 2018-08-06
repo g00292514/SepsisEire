@@ -153,6 +153,9 @@ a {
     text-decoration: none;
 }
 /*maternity start*/
+ul li {
+    padding: 5px 0;
+}
 .preg_risk_p{
     margin: 0 10%;
     padding: 5% 0;
